@@ -331,10 +331,130 @@ Cook is very involved in Apple's sustainability efforts, and is ahead of the cur
 
 ## Chapter 9: Cook Fights the Law, and Wins 
 
+Under Cook, Apple's iOS and MacOS updates would increasingly become more privacy focused. Cook promised to not monetize the data that it collected from its users for ad purposes. Apple would also make encryption tied down to the user's passcode, and would not provide a backdoor for government agencies to hack into iOS devices. 
 
+### Privacy Concerns 
+
+In December 2013, the public became outraged at one of the NSA's softwares being able to eavesdrop on communications from iPhones. Apple claimed it had nothing to do with the software. Other researchers claimed that Apple could read your iMessage conversations, but Apple denied that too. 
+
+In September 2014, Apple was accused of not taking iCloud security seriously after leaked images of celebrities were released in "Celebgate". However, Apple claimed that it was a targeted attack on usernames and passwords, and not a breach of the iCloud system. Even though this was done through a phishing scheme, Cook promised that Apple would do more to protect their users. 
+
+### San Bernardino 
+
+In 2016, Cook fought the law and won. In 2015, a judge ordered Apple to build a backdoor access for the iPhone used by Syed Farook, the suspect in the San Bernardino shooting. Apple refused, believing that it would be very dangerous. Cook took a stand here because he believed it would be a slippery slope for Apple to hack its own users. 
+
+### Long-Running Debate 
+
+iOS 8 had the strongest encryption on user data ever seen in Smartphones. Not even Apple could break it. Law Enforcement could not access iPhones, and were pressuring Apple for a solution. 
+
+### The Firestorm 
+
+As predicted by Cook, this stance on privacy caused a lot of political, media, and public backlash. A Pew Survey found that 51 percent of the public sided with the FBI, while only 38 percent sided with Cook. Other Surveys indicated a 46 percent support for Apple and a 35 percent disagreement. It was clear the public was divided. 
+
+### The War Room 
+
+Cook gave a prime-time interview with ABC News which explained his stance on the issue. It went well and was the most important interview Cook gave as CEO. In a later case, a judge sided with Apple against the FBI. This gave Apple much needed support. 
+
+### No Privacy in America 
+
+Despite this, the public was still very divided. The United Nations would voice its support for Apple. However, Attorney General Loretta Lynch would criticize Apple for essentially defying the law and the courts. 
+
+### The Case is Dropped 
+
+The FBI decided to drop the case after gaining access to Farook's iPhone, because it turns out they could access the iPhone without Apple's help. 
+
+### Cook Doubles Down on Privacy 
+
+Apple continued to improve on its privacy protections with iOS 11.3, which made it clear to users when their personal data was being collected. This coincided with Facebook's controversial privacy practices, which provided a contrast being Apple and Facebook's policies. 
 
 ## Chapter 10: Doubling Down on Diversity 
 
+On October 30, 2014, Cook confirmed to the public that he was gay. Cook did so because he believed it was a sacrifice to help a generation of young people be comfortable in their own skin. 
+
+### Person of the Year 
+
+Cook was named Person of the Year by the Financial Times in 2014. This was due to both his success leading Apple economically, but also ethically. 
+
+### Equality and Diversity Are Good for Business 
+
+Cook's sexuality influenced his outlook on equality and diversity. He published an article "Workplace Equality Is Good for Business" in Wall Street Journal. There, he argued that congress should pass the Employment Nondiscrimination Act. The bill was passed in 2013. 
+
+### Innovation Through Diversity 
+
+Although Cook appreciated his executive team because they were diverse in thought, they lacked true diversity in race and gender. Cook encouraged the employment of minorities, like the disabled and veterans. 
+
+### Promoting Women 
+
+Cook also tried to promote women in the tech industry. He believed having a woman role model would inspire younger girls to pursue a career in tech. 
+
+### Apple's Makeup 
+
+In August 2014, Apple's first diversity report was largely White and Male. Cook expressed disappointment with these results. Unfortunately, Apple has not made much progress in this regard. 
+
+### Shareholder Pressure 
+
+Shareholders have pressured Apple to adopt an "accelerated recruitment policy" to increase diversity. Apple however, declined, saying it wasn't necessary to it's vision of increasing diversity, as they knew it would take time. 
+
+### Cook's Education Initiatives 
+
+Apple has used education initiatives to try to increase diversity. Apple built and funded programs to help minorities pursue an education. For example, Apple teamed up with and donated $10 million to the National Center for Women and Information Technology (NCWIT) to help develop women in STEM.  
+
+### Sowing Early Seeds 
+
+Apple is also reaching earlier to high schools, middle schools, and elementary schools to develop STEM in K-12 schools. 
+
+### Accessibility 
+
+Cook has also made accessibility an important focus for Apple products. He wants to make sure all Apple products are designed so that everyone can use them. Softwares like VoiceOver technology and Braille help disabled users use their technology.  
+
 ## Chapter 11: Robot Cars and the Future of Apple 
 
+On August 2, 2018, Apple became the first company to reach a $1 trillion valuation. Many attributed this valuation to the success of Apple products like the iPhone. 
+
+### Future Initiatives 
+
+Apple has been developing Project Titan, which is a secretive self-driving-car project. This project was assigned to Apple's VP of product design, Steve Zadesky, but he left in 2016. Later, the project was assigned to Bob Mansfield, where the project became "rebooted" and several employees were laid off. 
+
+As of now, it's unclear what the status of Project Titan is, but many speculate that it is the biggest failure of the Tim Cook era. 
+
+Cook's failure was due to him hiring too many outsiders, growing the project too quickly, then having to lay them off in a couple of years. 
+
+### Apple Park 
+
+Apple Park opened in April 2017, which was one of Jobs' last projects at Apple. It was a gigantic spaceship shaped headquarters for Apple. 
+
+### Campus Opening 
+
+Apple Park opened in April 2017, and perfectly summed up the relationship between the legacy of Steve Jobs, as well as the present of Tim Cook. 
+
+### Not Everything Was a Success 
+
+Some criticized Apple Park for being closed to the public. Some employees had issues with seeing the glass and cut their heads walking into it. Yet others criticized the building for being sterile and isolated, and devoid of humanity. 
+
+### Fostering Collaboration 
+
+Apple Park's circular design allowed for greater collaboration. It features a large open space, and it was actually Steve Jobs' idea. 
+
+### It Seems to Be Working 
+
+During the Author's visit to Apple Park, it seemed to be busy with interaction. 
+
+### Enter the X, the Next-Gen iPHone 
+
+On September 2017, Cook would announce the Next-Gen iPhone X, because it marked a decade of the iPhone. Cook claimed it was the biggest innovation to the iPhone and charged a premium for it. It was a massive success. 
+
 ## Chapter 12: Apple's Best CEO?
+
+Jobs was a great visionary, but he was never really a CEO. He was the head of product, and was arguably a bad CEO. Cook is much better suited running Apple in ways Jobs could not. 
+
+### Can Cook Innovate? 
+
+Many have questioned whether Apple can innovate under Cook as it did under Jobs. But it's important to note that for Jobs, many of the products weren't instant successes, and took time for them to catch on. 
+
+### Innovations Take Time
+
+The Apple Watch is following a similar pattern to Jobs' products.Apple also innovated in other areas under Cook. For example, Airpods, Apple Pay, Face ID, and the iPhone X are all well received. 
+
+### Lessons Learned 
+
+Cook was an unlikely candidate to succeed Steve Jobs, given his background and upbringing. Many expected Steve to be the one to bring Apple to the heights it has achieved. But Cook managed to bring Apple to new heights due to being different from Jobs. Cook's care for ethics, his focus on diversity and equality, his care for workers and the environment, and his conviction for his strong personal beliefs allowed Apple to grow into the company it is today. 
