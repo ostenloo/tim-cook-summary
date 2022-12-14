@@ -89,11 +89,11 @@ Cook graduated highschool in 1978 and attended Auburn University, pursuing a bac
 
 Auburn had a significant impact on Cook's worldview. The Auburn creed states, 
 
-    "I believe this is a practical world and that I can count only on what I earn. Therefore, I believe in work, hard work. I believe in education, which gives me the knowledge to work wisely and trains my mind and my hands to work skillfully. I believe in honesty and truthfulness, without which I cannot win the respect and confidence of my fellow men."
+>"I believe this is a practical world and that I can count only on what I earn. Therefore, I believe in work, hard work. I believe in education, which gives me the knowledge to work wisely and trains my mind and my hands to work skillfully. I believe in honesty and truthfulness, without which I cannot win the respect and confidence of my fellow men."
 
 and Cook echoed it at a commencement speech at Auburn in 2010. Cook would address the crowd, 
 
-    "Those who try to achieve success without hard work ultimately deceive themselves, or worse, deceive others." 
+>"Those who try to achieve success without hard work ultimately deceive themselves, or worse, deceive others." 
 
 Cook graduated from Auburn in 1982, and took a job at IBM, in the infancy stages of the tech industry. 
  
@@ -223,7 +223,7 @@ Apple released the iPhone 5 in September 2012, the first iPhone released after J
 
 Al Gore said of Cook: 
 
-    "It is difficult to imagine a harder challenge than following the legendary Steve Jobs as CEO of Apple. Yet Tim Cook, a soft-spoken, genuinely humble and quietly intense son of an Alabama shipyard worker and a homemaker, hasn't missed a single beat. Fiercely protective of Jobs' legacy and deeply immersed in Apple's culture, Cook, 51, has already led the world's most valuable and innovative company to new heights while implementing major policy changes smoothly and brilliantly. He was indelibly imprinted his leadership on all areas of Apple--from managing its complex inner workings to identifying and shepherding new "insanely great" technology and design breakthroughs into the product pipeline." 
+>"It is difficult to imagine a harder challenge than following the legendary Steve Jobs as CEO of Apple. Yet Tim Cook, a soft-spoken, genuinely humble and quietly intense son of an Alabama shipyard worker and a homemaker, hasn't missed a single beat. Fiercely protective of Jobs' legacy and deeply immersed in Apple's culture, Cook, 51, has already led the world's most valuable and innovative company to new heights while implementing major policy changes smoothly and brilliantly. He was indelibly imprinted his leadership on all areas of Apple--from managing its complex inner workings to identifying and shepherding new "insanely great" technology and design breakthroughs into the product pipeline." 
 
 ## Chapter 7: Finding his Feet with Hot New Products 
 
